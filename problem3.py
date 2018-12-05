@@ -1,0 +1,8 @@
+name = input ('What is your name? ')
+print ('UGH, I ENVY YOU' + name + '.')
+color = input ('What is your favorite color? ')
+print ('UGH, I ENVY BLUE, THERE ARE SO MANY BETTER COLORS!' )
+subject = input ('What is your favorite subject in school?' )
+print ('UGH, I ENVY COMPUTER SCIENCE. I ENVY EVERYTHING!' )
+pet = input ('Even puppies?' )
+print ('NO! NOT' + pet + 'ANYTHING BUT THAT! TOO CUTE!' )

@@ -1,0 +1,8 @@
+name = input ('What is your name? ')
+print ('Nice to meet you ' + name + ', my name is Chatbot')
+age = input ('How old are you?')
+print ('wow, ' + age + 'years old! I was born today.')
+feeling = input ('How are you feeling today? ')
+print ('Gad to hear you are feeling' + feeling + 'That is wonderful to hear!')
+question = input ('Are you a human being? ')
+answer = print ('Cannot compute' * 10)
